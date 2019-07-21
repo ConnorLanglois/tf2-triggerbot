@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/TF2Triggerbot.au3
-	```
+```
+src/TF2Triggerbot.au3
+```
 
 ## Authors
 
